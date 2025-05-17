@@ -1,4 +1,4 @@
-<p align="center">
+v<p align="center">
     <img width="140" src="https://icons.iconarchive.com/icons/iconarchive/red-orb-alphabet/128/Letter-M-icon.png" />  
     <h1 align="center">Hi 👋, I'm MaDHouSe</h1>
     <h3 align="center">A passionate allround developer </h3>    
@@ -17,5 +17,5 @@
 - When a npc is cuffed the npc walk/run with you while you move around.
 
 # LICENSE
-[GPL LICENSE](https://github.com/MH-Scripts/mh-cuffed/LICENSE)<br />
+[GPL LICENSE](https://github.com/MH-Scripts/mh-cuffed/blob/main/LICENSE)<br />
 &copy; [MaDHouSe79](https://www.youtube.com/@MaDHouSe79)
