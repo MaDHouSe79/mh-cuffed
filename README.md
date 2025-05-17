@@ -5,5 +5,5 @@
 </p>
 
 # MH Cuffed
-- [Download](https://github.com/MH-Scripts/mh-cuffed)
-- [Youtube](https://www.youtube.com/@MaDHouSe79)
+- Download https://github.com/MH-Scripts/mh-cuffed
+- Youtube https://www.youtube.com/@MaDHouSe79
