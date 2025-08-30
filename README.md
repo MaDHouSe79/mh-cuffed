@@ -5,20 +5,20 @@
 </p>
 
 <p align="center">
-    <a href="https://github.com/MaDHouSe79/mh-walkwhencuffed/issues">
-        <img src="https://img.shields.io/github/issues/MaDHouSe79/mh-walkwhencuffed"/> 
+    <a href="https://github.com/MaDHouSe79/mh-cuffed/issues">
+        <img src="https://img.shields.io/github/issues/MaDHouSe79/mh-cuffed"/> 
     </a>
-    <a href="https://github.com/MaDHouSe79/mh-walkwhencuffed/watchers">
-        <img src="https://img.shields.io/github/watchers/MaDHouSe79/mh-walkwhencuffed"/> 
+    <a href="https://github.com/MaDHouSe79/mh-cuffed/watchers">
+        <img src="https://img.shields.io/github/watchers/MaDHouSe79/mh-cuffed"/> 
     </a> 
-    <a href="https://github.com/MaDHouSe79/mh-walkwhencuffed/network/members">
-        <img src="https://img.shields.io/github/forks/MaDHouSe79/mh-walkwhencuffed"/> 
+    <a href="https://github.com/MaDHouSe79/mh-cuffed/network/members">
+        <img src="https://img.shields.io/github/forks/MaDHouSe79/mh-cuffed"/> 
     </a>  
-    <a href="https://github.com/MaDHouSe79/mh-walkwhencuffed/stargazers">
-        <img src="https://img.shields.io/github/stars/MaDHouSe79/mh-walkwhencuffed?color=white"/> 
+    <a href="https://github.com/MaDHouSe79/mh-cuffed/stargazers">
+        <img src="https://img.shields.io/github/stars/MaDHouSe79/mh-cuffed?color=white"/> 
     </a>
-    <a href="https://github.com/MaDHouSe79/mh-walkwhencuffed/blob/main/LICENSE">
-        <img src="https://img.shields.io/github/license/MaDHouSe79/mh-walkwhencuffed?color=black"/> 
+    <a href="https://github.com/MaDHouSe79/mh-cuffed/blob/main/LICENSE">
+        <img src="https://img.shields.io/github/license/MaDHouSe79/mh-cuffed?color=black"/> 
     </a>      
 </p>
 
